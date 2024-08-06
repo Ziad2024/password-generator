@@ -1,5 +1,5 @@
 # password-generator
-Password Generator that creates secure, random passwords based on a combination of uppercase letters, lowercase letters, symbols, and numbers. The app allows users to generate a new password with a single click and provides the option to copy the generated password to the clipboard.
+Password Generator that creates random passwords based on a combination of uppercase letters, lowercase letters, symbols, and numbers. The app allows users to generate a new password with a single click and provides the option to copy the generated password to the clipboard.
 
 ## Screenshot
 ![generate pass](https://github.com/user-attachments/assets/823b3435-a575-403e-9ce3-eb28f4fccaff)
